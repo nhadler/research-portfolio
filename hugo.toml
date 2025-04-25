@@ -1,7 +1,7 @@
 baseURL = 'https://www.nhadler.com'
 languageCode = 'en-us'
 title = 'Nicholas Hadler'
-theme = 'hyde'
+theme = 'hyde-1'
 
 [params]
   description = "chemist and data scientist"
@@ -37,3 +37,7 @@ theme = 'hyde'
     name = "publications"
     url = "/publications/" # URL path to your publications.md page
     weight = 20
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
