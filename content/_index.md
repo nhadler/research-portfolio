@@ -2,7 +2,7 @@
 title: "Home" 
 ---
 
-<h1 style="font-size: 2.0rem;">Nicholas Hadler</h1>
+<h1 style="font-size: 2.0rem; padding-top:0.5rem;">Nicholas Hadler</h1>
 
 I am a PhD candidate in the [Hartwig Group](https://hartwig.cchem.berkeley.edu/) at the [University of California, Berkeley](https://www.berkeley.edu/).
 
