@@ -1,0 +1,39 @@
+baseURL = 'https://www.nhadler.com'
+languageCode = 'en-us'
+title = 'Nicholas Hadler'
+theme = 'hyde'
+
+[params]
+  description = "chemist and data scientist"
+  themeColor = "theme-base-blue"
+  [[params.social]]
+    name = "Google Scholar"
+    url = "https://scholar.google.com/citations?user=IBnzxfkAAAAJ&hl=en"
+    icon = "fas fa-graduation-cap"
+  [[params.social]]
+    name = "GitHub"
+    url = "https://github.com/nhadler"
+    icon = "fab fa-github"
+  [[params.social]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/nicholas-hadler/"
+    icon = "fab fa-linkedin"
+  [[params.social]]
+    name = "Bluesky"
+    url = "https://bsky.app/profile/nichadler.bsky.social"
+    icon = "fab fa-bluesky"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true # Allow raw HTML in markdown
+
+[menu]
+  [[menu.main]]
+    name = "about me"
+    url = "/about-me/" # URL path to your about-me.md page
+    weight = 10 # Controls the order (lower weight appears first)
+  [[menu.main]]
+    name = "publications"
+    url = "/publications/" # URL path to your publications.md page
+    weight = 20
