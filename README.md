@@ -1,1 +1,1 @@
-A website portfolio Nicholas Hadler.
+A website portfolio for Nicholas Hadler's research.
