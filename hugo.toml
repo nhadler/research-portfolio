@@ -34,7 +34,7 @@ theme = 'hyde-1'
     weight = 10 # Controls the order (lower weight appears first)
   [[menu.main]]
     name = "publications"
-    url = "/publications/" # URL path to your publications.md page
+    url = "/publications/"
     weight = 20
 
 [caches]
