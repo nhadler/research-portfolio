@@ -1,8 +1,6 @@
-+++
-date = '2025-04-24T15:08:25-07:00'
-draft = true
-title = 'Publications'
-+++
+---
+title: "Publications"
+---
 
 A more complete list can be found on [Google Scholar](https://scholar.google.com/citations?user=IBnzxfkAAAAJ&hl=en).
 
