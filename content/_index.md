@@ -6,7 +6,7 @@ title: "Home"
 
 I'm a [chemistry](https://chemistry.berkeley.edu/chem) PhD candidate in the [Hartwig Group](https://hartwig.cchem.berkeley.edu/) at the [University of California, Berkeley](https://www.berkeley.edu/).
 
-My research focuses on combining transition-metal catalysis with machine learning, data science, and high-throughput experimentation to accelerate discovery in synthetic chemistry. More broadly, I'm interested in how we can leverage domain knowledge to address the challenges of applying machine learning in the natural sciences.
+My research focuses on combining transition-metal catalysis with machine learning, data science, and high-throughput experimentation to accelerate discovery in synthetic chemistry. More broadly, I'm interested in how we can leverage domain knowledge to address the challenges of applying machine learning to the natural sciences.
 
 <div class="more">
 	<a href="about-me/">more about me ></a>
