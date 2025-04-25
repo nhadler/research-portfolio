@@ -4,7 +4,7 @@ title: "Home"
 
 <h1>Nicholas Hadler</h1>
 
-I am a PhD candidate in the [Hartwig Group](https://hartwig.cchem.berkeley.edu/) at the [University of California, Berkeley](https://www.berkeley.edu/).
+I'm a [chemistry](https://chemistry.berkeley.edu/chem) PhD candidate in the [Hartwig Group](https://hartwig.cchem.berkeley.edu/) at the [University of California, Berkeley](https://www.berkeley.edu/).
 
 My research focuses on combining transition-metal catalysis with machine learning, data science, and high-throughput experimentation to accelerate discovery in synthetic chemistry. Broadly, I'm interested in how we can leverage domain knowledge to address the challenges of applying machine learning in the natural sciences.
 
