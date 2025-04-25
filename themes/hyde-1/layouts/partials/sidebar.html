@@ -1,0 +1,42 @@
+<aside class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      {{ $profile := resources.Get "profile.png" }}
+      {{ if $profile }}
+      <img src="{{ $profile.RelPermalink }}" alt="Profile Picture" class="profile-picture">
+      {{ end }}
+      <a href="{{ .Site.BaseURL }}">
+        <h1>{{ .Site.Title }}</h1>
+      </a>
+      <p class="lead">
+        {{ with .Site.Params.description }} {{.}} {{ else }}An elegant open source and mobile first theme for <a
+          href="http://hugo.spf13.com">hugo</a> made by <a href="http://twitter.com/mdo">@mdo</a>. Originally made for
+        Jekyll.{{end}}
+      </p>
+    </div>
+
+    <div class="sidebar-social">
+      {{ range .Site.Params.social }}
+      <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" title="{{ .name }}" style="margin-right: 10px;">
+        <i class="{{ .icon }}"></i> <!-- Use the icon class -->
+      </a>
+      {{ end }}
+    </div>
+
+    <nav>
+      <ul class="sidebar-nav">
+        {{ $currentPage := . }}
+        <li><a class="sidebar-nav-item {{ if $currentPage.IsHome }}active{{ end }}" href="{{ .Site.BaseURL }}">home</a>
+        </li>
+        {{ range .Site.Menus.main -}}
+        <li><a class="sidebar-nav-item {{ if eq $currentPage.RelPermalink .URL }}active{{ end }}" href="{{ .URL }}"> {{
+            .Name }} </a></li>
+        {{- end }}
+      </ul>
+    </nav>
+
+    <div class="footer">
+      <p>{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{ now.Format "2006"}}. All rights reserved. {{end}}</p>
+    </div>
+  </div>
+</aside>
