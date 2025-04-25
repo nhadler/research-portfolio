@@ -29,9 +29,6 @@
  * Update the foundational and global aspects of the page.
  */
 
-html {
-  font-family: "IBM Flex Sans", Helvetica, Arial, sans-serif;
-}
 @media (min-width: 48em) {
   html {
     font-size: 20px;
@@ -39,7 +36,7 @@ html {
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 21px;
   }
 }
 
@@ -81,18 +78,24 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.75rem;
 }
 
 /* Profile Picture */
+/* Profile Picture */
 .profile-picture {
   display: block; /* Prevents inline alignment issues */
-  margin: 0 0 1rem 0; /* Align left and add bottom margin */
+  margin: 0 auto 1rem auto; /* Center horizontally on mobile, add bottom margin */
   width: 150px; /* Adjust width as needed */
   height: 150px; /* Adjust height as needed */
-  border-radius: 10%; /* Make it circular */
+  border-radius: 10%; /* Make it slightly rounded */
   object-fit: cover; /* Ensure the image covers the area well */
+}
+
+@media (min-width: 48em) {
+  .profile-picture {
+    margin: 0 0 1rem 0; /* Align left on larger screens */
+  }
 }
 
 /* "More" link styling */
@@ -119,11 +122,11 @@ html {
 }
 
 .sidebar-nav-item {
-  display: block;
+  font-family: "IBM Plex Sans", Helvetica, Arial, sans-serif;
 }
 
 a.sidebar-nav-item {
-  font-weight: 300; /* Make default nav items thinner */
+  font-weight: 100; /* Make default nav items thinner */
 }
 
 a.sidebar-nav-item:hover,
@@ -132,6 +135,7 @@ a.sidebar-nav-item:focus {
 }
 
 .sidebar-nav-item.active {
+  font-family: "IBM Plex Sans", Helvetica, Arial, sans-serif;
   font-weight: 600; /* Make active nav item bolder */
 }
 
@@ -157,12 +161,13 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top: 4rem;
+  padding-top: 1rem; /* Reduced top padding for mobile */
   padding-bottom: 4rem;
 }
 
 @media (min-width: 48em) {
   .content {
+    padding-top: 4rem; /* Restore top padding for larger screens */
     max-width: 38rem;
     margin-left: 20rem;
     margin-right: 2rem;
