@@ -1,4 +1,4 @@
-baseURL = 'https://www.nhadler.com'
+baseURL = 'www.nhadler.com'
 languageCode = 'en-us'
 title = 'Nicholas Hadler'
 theme = 'hyde-1'
