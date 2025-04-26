@@ -16,8 +16,8 @@ Outside of the lab, you can find me hiking, brewing coffee, tending to my vegeta
 Email: [nicholas.hadler [at] gmail [dot] com](mailto:nicholas.hadler@gmail.com)
 <br>
 
-GitHub: [@nhadler](https://github.com/nhadler)
-<br>
 LinkedIn: [Nicholas Hadler](https://www.linkedin.com/in/nicholas-hadler/)
+<br>
+GitHub: [@nhadler](https://github.com/nhadler)
 <br>
 Bluesky: [@nichadler.bsky.social](https://bsky.app/profile/nichadler.bsky.social)
