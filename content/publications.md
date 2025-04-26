@@ -12,4 +12,5 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 ### Conference Abstracts
 - **Hadler, N.**; Elkin, M.; Rinehart, N. I.; Nicolai, J.; Gheibi G.; Hartwig, J. F. **[Predicting the Regioselectivity of Olefin Hydroformylation with Machine Learning](https://acs.digitellinc.com/p/s/predicting-the-regioselectivity-of-olefin-hydroformylation-using-machine-learning-620605)**,  *Invited Poster Presentation: "Unlocking a New Era: How AI is Transforming Drug Discovery and Development Symposium"*, ACS Spring, 2025
+
 - **Hadler, N.**; Elkin, M.; Rinehart, N. I.; Nicolai, J.; Gheibi G.; Hartwig, J. F. **[Predicting the Regioselectivity of Olefin Hydroformylation with Machine Learning](https://www.bayareachemistrysymposium.com/2024-program)**  Bay Area Chemistry Symposium, 2024
