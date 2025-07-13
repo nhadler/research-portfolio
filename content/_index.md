@@ -23,3 +23,10 @@ My research focuses on combining transition-metal catalysis with machine learnin
 	<a href="publications/">more publications ></a>
 </div>
 
+## Selected Projects
+
+- **[Landscaper.](https://github.com/Vis4SciML/Landscaper)** A Python framework that constructs, quantifies, and visualizes deep-learning loss landscapes in both low and high dimensions. Equipped with efficient sampling strategies, a novel TDA-based metrics, and interactive plotting utilities, the library offers an end-to-end toolkit for uncovering geometric and topological insights to better understand complex ML models.
+
+<div class="more">
+	<a href="projects/">more projects ></a>
+</div>
