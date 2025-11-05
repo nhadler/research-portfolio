@@ -14,10 +14,10 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 - Lambert, W.\*; Felten, S.\*; **Hadler, N.**; Rinehart, N. I.; Swiatowiec, R.; Storer, G.; Henle, J.; Servos, M.; Yang, C.; Bay, A.; Eyimegwu, P.; Shekhar, S.; Hartwig, J. **[Unleashing the Power of Potassium 2-Ethylhexanoate as a Mild and Soluble Base for Pd-Catalyzed C-N Cross-Coupling.](https://doi.org/10.26434/chemrxiv-2025-59c10)** ChemRxiv, 2025. *(\*equal contribution)*
 
 ### Conference Abstracts
-**Hadler, N.**, **A 3D, Structure-Based, Deep Learning Approach for Predicting the Regioselectivity of Olefin Hydroformylation**, Presentation at the Western Regional ACS, November 2025
+- **Hadler, N.**, **A 3D, Structure-Based, Deep Learning Approach for Predicting the Regioselectivity of Olefin Hydroformylation**, Oral Presentation at the Western Regional ACS, November 2025
 
-**Hadler, N.**, **[A 3D, Structure-Based, Deep Learning Approach for Predicting the Regioselectivity of Olefin Hydroformylation](https://www.rscbmcs.org/events/aichem8/)**, Presentation at the 8th Artificial Intelligence in Chemistry Symposium, Cambridge, London, UK, September 2025
+- **Hadler, N.**, **[A 3D, Structure-Based, Deep Learning Approach for Predicting the Regioselectivity of Olefin Hydroformylation](https://www.rscbmcs.org/events/aichem8/)**, Oral Presentation at the 8th Artificial Intelligence in Chemistry Symposium, Cambridge, London, UK, September 2025
 
-- **Hadler, N.**, **[Predicting the Regioselectivity of Olefin Hydroformylation with Machine Learning](https://acs.digitellinc.com/p/s/predicting-the-regioselectivity-of-olefin-hydroformylation-using-machine-learning-620605)**,  *Invited Poster Presentation: "Unlocking a New Era: How AI is Transforming Drug Discovery and Development Symposium"*, ACS Spring, 2025
+- **Hadler, N.**, **[Predicting the Regioselectivity of Olefin Hydroformylation with Machine Learning](https://acs.digitellinc.com/p/s/predicting-the-regioselectivity-of-olefin-hydroformylation-using-machine-learning-620605)**,  Invited Poster Presentation: *"Unlocking a New Era: How AI is Transforming Drug Discovery and Development Symposium"*, ACS Spring, 2025
 
 - **Hadler, N.**, **[Predicting the Regioselectivity of Olefin Hydroformylation with Machine Learning](https://www.bayareachemistrysymposium.com/2024-program)**  Bay Area Chemistry Symposium, 2024
