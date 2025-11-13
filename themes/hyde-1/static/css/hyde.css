@@ -47,6 +47,10 @@
  * out above content in mobile and later moves to the side with wider viewports.
  */
 
+body {
+  background-color: #fff;
+}
+
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
@@ -64,9 +68,97 @@
   }
 }
 
+@media (max-width: 47.99em) {
+  html {
+    font-size: 18px; /* Keep mobile type close to desktop scale */
+  }
+
+  body {
+    background: #f6f8fb;
+  }
+
+  body.theme-base-blue {
+    background: linear-gradient(180deg, #15284b 0, #15284b 14rem, #f6f8fb 14rem);
+  }
+
+  .sidebar {
+    text-align: left;
+    margin: 1.25rem auto 0;
+    padding: 1.5rem;
+    max-width: 24rem;
+    border-radius: 1.25rem;
+    box-shadow: 0 1.5rem 3rem rgba(7, 12, 24, 0.25);
+  }
+
+  .sidebar .container {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .sidebar-about {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .sidebar-about h1 {
+    font-size: 1.65rem;
+    margin-bottom: 0.2rem;
+    text-align: center;
+    width: 100%;
+  }
+
+  .sidebar-about .lead {
+    margin-bottom: 0;
+    font-size: 1.1rem;
+    flex: 1 1 12rem;
+    text-align: center;
+    width: 100%;
+  }
+
+  .sidebar-social {
+    display: flex;
+    gap: 0.85rem;
+    justify-content: center;
+    padding-bottom: 0;
+    margin-top: 0.75rem;
+    margin-bottom: 0.35rem;
+  }
+
+  .sidebar-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem 1.25rem;
+    margin-top: 0.5rem;
+    padding-left: 0;
+    justify-content: center;
+  }
+
+  .sidebar-nav-item {
+    padding: 0;
+    font-size: 1rem;
+  }
+
+  .content {
+    margin: 1.5rem auto 2.5rem;
+    padding: 1.75rem 1.5rem 2.5rem;
+    background: #fff;
+    border-radius: 1.25rem;
+    box-shadow: 0 1.25rem 2.5rem rgba(12, 23, 52, 0.15);
+    max-width: 44rem;
+  }
+
+  .footer {
+    text-align: center;
+    margin-top: 1.25rem;
+  }
+}
+
 .footer {
   font-size: 0.9rem;
   font-weight: 300;
+  text-align: center;
 }
 
 /* Sidebar links */
@@ -92,6 +184,14 @@
   object-fit: cover; /* Ensure the image covers the area well */
 }
 
+@media (max-width: 47.99em) {
+  .profile-picture {
+    margin: 0; /* Align next to the copy */
+    width: 96px;
+    height: 96px;
+  }
+}
+
 @media (min-width: 48em) {
   .profile-picture {
     margin: 0 0 1rem 0; /* Align left on larger screens */
@@ -111,9 +211,9 @@
 }
 
 /* Social Icons */
-.sidebar-social {
+  .sidebar-social {
   padding-bottom: 1.5rem; /* Add bottom padding */
-}
+  }
 
 .sidebar-social a {
   color: #fff; /* Ensure icons inherit sidebar link color */
