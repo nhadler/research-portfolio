@@ -3,7 +3,7 @@ title = 'Nicholas Hadler'
 theme = 'hyde-1'
 
 [params]
-  description = "chemist and data scientist"
+  description = " "
   themeColor = "theme-base-blue"
   [[params.social]]
     name = "Google Scholar"

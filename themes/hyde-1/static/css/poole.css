@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
 
 /*
  *                        ___
@@ -42,7 +42,7 @@
 }
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif; /* Updated font */
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
 }
 
 html,
@@ -53,7 +53,7 @@ body {
 
 @media (min-width: 38em) {
   html {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 
@@ -63,6 +63,7 @@ body {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  text-align: justify;
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
@@ -88,7 +89,7 @@ h6 {
   line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
-  font-family: "IBM Plex Sans", Helvetica, Arial, sans-serif;
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
 }
 h1 {
   font-size: 2.5rem;
