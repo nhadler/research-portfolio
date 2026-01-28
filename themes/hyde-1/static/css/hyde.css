@@ -78,7 +78,12 @@ body {
   }
 
   body.theme-base-blue {
-    background: linear-gradient(180deg, #15284b 0, #15284b 14rem, #f6f8fb 14rem);
+    background: linear-gradient(
+      180deg,
+      #15284b 0,
+      #15284b 14rem,
+      #f6f8fb 14rem
+    );
   }
 
   .sidebar {
@@ -211,9 +216,9 @@ body {
 }
 
 /* Social Icons */
-  .sidebar-social {
+.sidebar-social {
   padding-bottom: 1.5rem; /* Add bottom padding */
-  }
+}
 
 .sidebar-social a {
   color: #fff; /* Ensure icons inherit sidebar link color */
