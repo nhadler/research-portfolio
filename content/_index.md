@@ -14,9 +14,9 @@ My research brings together transition-metal catalysis, data science, and high-t
 
 ## Selected Publications
 
-- **Hadler, N.**; Rinehart, N. I.; Elkin, M.; Nicolai, J.; Gheibi, G.; Chen, J.; Avaylon, M.; Maciejewski, R.; Weber, G. H.; Mahoney, M. W.; Perciano, T.; Hartwig, J. F. **[A 3D, Structure-Based, Deep Learning Approach for Predicting the Regioselectivity of Transition-Metal Catalysis.](https://doi.org/10.26434/chemrxiv.10001648/v1)** ChemRxiv, 2026.
+- Chen, J.\*; **Hadler, N.\***; Xie, T.; Hnatyshyn, R.; Geniesse, C.; Yang, Y.; Mahoney, M. W.; Perciano, T.; Hartwig, J. F.; Maciejewski, R.; Weber, G. H. **[Landscaper: Understanding Loss Landscapes Through Multi-Dimensional Topological Analysis.](https://arxiv.org/abs/2602.07135)** arXiv, 2026. *(\*equal contribution)*
 
-- Lambert, W.\*; Felten, S.\*; **Hadler, N.**; Rinehart, N. I.; Swiatowiec, R.; Storer, G.; Henle, J.; Servos, M.; Yang, C.; Bay, A.; Eyimegwu, P.; Shekhar, S.; Hartwig, J. **[Unleashing the Power of Potassium 2-Ethylhexanoate as a Mild and Soluble Base for Pd-Catalyzed C-N Cross-Coupling.](https://pubs.acs.org/doi/10.1021/jacs.5c07790)** JACS, 2025. *(\*equal contribution)*
+- **Hadler, N.**; Rinehart, N. I.; Elkin, M.; Nicolai, J.; Gheibi, G.; Chen, J.; Avaylon, M.; Maciejewski, R.; Weber, G. H.; Mahoney, M. W.; Perciano, T.; Hartwig, J. F. **[A 3D, Structure-Based, Deep Learning Approach for Predicting the Regioselectivity of Transition-Metal Catalysis.](https://doi.org/10.26434/chemrxiv.10001648/v1)** ChemRxiv, 2026.
 
 <div class="more">
 	<a href="publications/">more publications ></a>
